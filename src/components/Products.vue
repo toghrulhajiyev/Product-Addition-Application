@@ -11,7 +11,7 @@
                     <br>
                     <small><strong>Price : </strong> {{ product.price }}</small>
                     <br>
-                    <small><strong>Total : </strong> {{ product.totalPrice }}</small>
+                    <small><strong>Total : </strong> {{ product.totalPrice }}</small> 
                 </div>
             </app-product>
         </div>
